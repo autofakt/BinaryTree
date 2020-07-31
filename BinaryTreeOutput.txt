@@ -1,0 +1,17 @@
+Original:  A B + C *
+Traversed: A B + C * 
+
+Original:  A B C * +
+Traversed: A B C * + 
+
+Original:  A B C D * + * E +
+Traversed: A B C D * + * E + 
+
+Original:  E D / A C E / + -
+Traversed: E D / A C E / + - 
+
+Original:  A B C * + D E * F + G * +
+Traversed: A B C * + D E * F + G * + 
+
+
+
